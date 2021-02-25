@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+}
+.header_top {
+    background-color: #5A442A;
+    color: white;
+    height: 80px;
+    padding: 6px 80px;
+    font-family: YuMincho;
+}
+.header_bottom img {
+    width: 100%;
+}
+.header_top span {
+    font-size: 18px;
+}
+main {
+    background-color: #fffaf0;
+    padding: 50px 0;
+    font-family: 游明朝体, YuMincho, "游明朝 Medium", "Yu Mincho Medium", 游明朝, "Yu Mincho", serif;
+    line-height: 1.75;
+    color: rgb(112, 112, 112);
+}
+section {
+    display: flex;
+}
+.july {
+    text-align: center;
+}
+.july_text {
+    font-family: 'æ¸¸æ˜Žæœä½“', YuMincho, 'æ¸¸æ˜Žæœ', 'Yu Mincho', 'æ¸¸æ˜Žæœ', 'Yu Mincho', serif;
+    font-weight: 700;
+    color: #707070;
+    text-decoration: none;
+    border-bottom: 2px solid;
+}
+.large {
+    font-size: 2.4rem;
+}
+.small {
+    font-size: 1.2rem;
+}
+.auguest {
+    margin-bottom: 30px;
+}
+.main_content {
+    width: 960px;
+    margin: 0 auto;
+}
+section {
+    margin-bottom: 30px;
+}
+.main_list {
+    margin-bottom: 50px;
+}
+.main_list img {
+    margin-left: 0;
+    margin-right: 24px;
+}
+footer {
+    padding: 10px 0;
+    background-color: #5A442A;
+}
+footer p {
+    text-align: center;
+    font-family: 游明朝体, YuMincho, "游明朝 Medium", "Yu Mincho Medium", 游明朝, "Yu Mincho", serif;
+    color: whitesmoke;
+}
